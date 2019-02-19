@@ -11,11 +11,11 @@
             <input placeholder='请输入密码'></input>
        </view>
        <view class="login-item bottom">
-            <button type='primary' style='background:#3574FA' class="login-btn" bindtap="loginBtnClick">登录</button>
+            <button type='primary' 
+            style='background:#3574FA' 
+            class="login-btn" bindtap="loginBtnClick">登录</button>
        </view>
     </view>
-<button bindtap='loginBtnClick'>fdlfjdlfjd</button>
-
     <view class="item bottom-info">
        <view> 没有账户? <text> 注册 </text> </view>
        <view class="wechat-icon">

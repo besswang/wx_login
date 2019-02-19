@@ -10,7 +10,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "用户登录111",
+    "navigationBarTitleText": "用户登录",
     "navigationBarTextStyle":"black"
   },
 
